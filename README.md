@@ -1,7 +1,6 @@
-# fireworks-generator
+# Fireworks Generator
 
-JavaScript Project using p5 library .
-
+JavaScript Firework generator using p5.js library.
 
 ## Overlay
 - Generation ratio millisecondes.
