@@ -2,7 +2,7 @@
 
 JavaScript Firework generator using p5.js library.
 
-## Overlay
+## Overlay options
 - Generation ratio millisecondes.
 - Particules contained in a firework.
 - Particle radius.
